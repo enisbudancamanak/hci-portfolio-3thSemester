@@ -1,0 +1,30 @@
+/* Write your global styles here, in PostCSS syntax */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	overflow-x: hidden;
+	/* overflow-y: hidden; */
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div#lightbox {
+	top: 0 !important;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	z-index: 50 !important;
+}
+
+.lightboxOverlay,
+.lightbox {
+	position: absolute;
+	z-index: 50 !important;
+	width: 100vw;
+	height: 100vh;
+}
