@@ -4,11 +4,13 @@
 	import Sidebar from '../components/Sidebar.svelte';
 	import { onMount } from 'svelte';
 	import { spring } from 'svelte/motion';
+	import 'material-icons/iconfont/material-icons.css';
 
 	import { count } from '../stores/stores';
 
 	let blob;
 	let loading = true;
+
 	onMount(async () => {
 		// display galaxy background
 		blob = (await import('../components/Blob.svelte')).default;
@@ -76,10 +78,27 @@
 	</div>
 {:else}{/if}
 
+<div
+	class="mask mask-squircle !z-40 fixed top-0 left-0 mx-32 my-12 w-20 h-20 bg-[#6F4CE1]  hover:cursor-pointer"
+>
+	<a href="/" class="flex flex-col items-center justify-center h-full">
+		<h1 class="text-4xl">EB</h1>
+		<p>Portfolio</p>
+	</a>
+</div>
+
+<div
+	class="mask mask-squircle !z-40 fixed bottom-0 right-0 mx-32 my-12 w-12 h-12 bg-[#6F4CE1]  hover:cursor-pointer"
+>
+	<a href="/contact" class="flex flex-col items-center justify-center h-full">
+		<span class="material-icons-outlined"> email </span>
+	</a>
+</div>
+
 <Sidebar />
 <div class="w-100 h-100 bg-neutral relative">
 	<div class="absolute top-0 left-0 !outline-none !border-none z-0">
-		<!-- <svelte:component this={blob} /> -->
+		<svelte:component this={blob} />
 	</div>
 	<PageTransitions>
 		<slot />

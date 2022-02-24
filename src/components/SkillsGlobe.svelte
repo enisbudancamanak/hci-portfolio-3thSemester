@@ -6,8 +6,6 @@
 	import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 	import TextSprite from '@seregpie/three.text-sprite';
 
-	// Load Chance
-
 	//Loading
 	onMount(async () => {
 		// Canvas
@@ -171,5 +169,10 @@
 		return text;
 	}
 </script>
+
+<!-- // Load Chance -->
+<svelte:head>
+	<script src="https://chancejs.com/chance.min.js"></script>
+</svelte:head>
 
 <div><canvas class="skillsCanvas" /></div>

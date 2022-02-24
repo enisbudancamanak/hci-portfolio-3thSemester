@@ -14,7 +14,7 @@
 			<h1
 				id="mouseholdInfo"
 				style="font-family: Poppins;"
-				class="absolute right-0 bottom-0 pb-8 pr-8 text-2xl"
+				class="absolute right-0 top-0 pt-8 pr-8 text-2xl"
 			>
 				HOLD MOUSE AND MOVE
 			</h1>

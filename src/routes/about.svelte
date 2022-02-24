@@ -12,7 +12,7 @@
 			<div class="hero min-h-screen">
 				<div class="flex-col hero-content lg:flex-row-reverse">
 					<img
-						src="src/assets/images/imageFromMyself.jpg"
+						src="images/imageFromMyself.jpg"
 						class="max-w-sm rounded-full shadow-2xl"
 						alt="imageFromMyself"
 					/>

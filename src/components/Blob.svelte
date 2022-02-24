@@ -52,7 +52,7 @@
 		scene = scene.getScene();
 
 		const textureLoader = new TextureLoader();
-		const circleStarTexture = textureLoader.load('src/assets/textures/star.png');
+		const circleStarTexture = textureLoader.load('/textures/star.png');
 
 		//Particles
 		const particlesGeometry = new BufferGeometry();

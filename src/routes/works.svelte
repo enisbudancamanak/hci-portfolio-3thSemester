@@ -21,10 +21,7 @@
 					<div class="grid-block">
 						<div class="tile">
 							<a class="tile-link" href="/arthlete">
-								<img
-									class="tile-img tile-img6"
-									src="src/assets/portfolioImages/ARthlete/pic (1).png"
-								/>
+								<img class="tile-img tile-img6" src="/portfolioImages/ARthlete/pic (1).png" />
 							</a>
 						</div>
 					</div>
@@ -34,56 +31,53 @@
 							<a
 								class="tile-link"
 								data-fancybox="slimehero"
-								data-src="src/assets/portfolioImages/slimeHero/pic (1).png"
+								data-src="/portfolioImages/slimeHero/pic (1).png"
 								href=""
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://slimehero.enisbudancamanak.works/' target='_blank'>to website</a>."
 							>
-								<img
-									class="tile-img tile-img1"
-									src="src/assets/portfolioImages/slimeHero/pic (1).png"
-								/>
+								<img class="tile-img tile-img1" src="/portfolioImages/slimeHero/pic (1).png" />
 							</a>
 							<a
 								data-fancybox="slimehero"
-								data-src="src/assets/portfolioImages/slimeHero/pic (2).png"
+								data-src="/portfolioImages/slimeHero/pic (2).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://slimehero.enisbudancamanak.works/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/slimeHero/pic (2).png" hidden />
+								<img src="/portfolioImages/slimeHero/pic (2).png" hidden />
 							</a>
 							<a
 								data-fancybox="slimehero"
-								data-src="src/assets/portfolioImages/slimeHero/pic (3).png"
+								data-src="/portfolioImages/slimeHero/pic (3).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://slimehero.enisbudancamanak.works/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/slimeHero/pic (3).png" hidden />
+								<img src="/portfolioImages/slimeHero/pic (3).png" hidden />
 							</a>
 							<a
 								data-fancybox="slimehero"
-								data-src="src/assets/portfolioImages/slimeHero/pic (4).png"
+								data-src="/portfolioImages/slimeHero/pic (4).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://slimehero.enisbudancamanak.works/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/slimeHero/pic (4).png" hidden />
+								<img src="/portfolioImages/slimeHero/pic (4).png" hidden />
 							</a>
 							<a
 								data-fancybox="slimehero"
-								data-src="src/assets/portfolioImages/slimeHero/pic (5).png"
+								data-src="/portfolioImages/slimeHero/pic (5).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://slimehero.enisbudancamanak.works/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/slimeHero/pic (5).png" hidden />
+								<img src="/portfolioImages/slimeHero/pic (5).png" hidden />
 							</a>
 							<a
 								data-fancybox="slimehero"
-								data-src="src/assets/portfolioImages/slimeHero/pic (6).png"
+								data-src="/portfolioImages/slimeHero/pic (6).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://slimehero.enisbudancamanak.works/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/slimeHero/pic (6).png" hidden />
+								<img src="/portfolioImages/slimeHero/pic (6).png" hidden />
 							</a>
 							<a
 								data-fancybox="slimehero"
-								data-src="src/assets/portfolioImages/slimeHero/pic (7).png"
+								data-src="/portfolioImages/slimeHero/pic (7).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://slimehero.enisbudancamanak.works/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/slimeHero/pic (7).png" hidden />
+								<img src="/portfolioImages/slimeHero/pic (7).png" hidden />
 							</a>
 						</div>
 					</div>
@@ -93,28 +87,28 @@
 							<a
 								class="tile-link"
 								data-fancybox="interactiveGraphics"
-								data-src="src/assets/portfolioImages/interactiveGraphics/pic (1).png"
+								data-src="/portfolioImages/interactiveGraphics/pic (1).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://enisbudancamanak.github.io/datengrafik_dashboard/' target='_blank'>to website</a>."
 								href=""
 							>
 								<img
-									src="src/assets/portfolioImages/interactiveGraphics/pic (1).png"
+									src="/portfolioImages/interactiveGraphics/pic (1).png"
 									class="tile-img tile-img2"
 								/>
 							</a>
 							<a
 								data-fancybox="interactiveGraphics"
-								data-src="src/assets/portfolioImages/interactiveGraphics/pic (2).png"
+								data-src="/portfolioImages/interactiveGraphics/pic (2).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://enisbudancamanak.github.io/datengrafik_dashboard/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/interactiveGraphics/pic (2).png" hidden />
+								<img src="/portfolioImages/interactiveGraphics/pic (2).png" hidden />
 							</a>
 							<a
 								data-fancybox="interactiveGraphics"
-								data-src="src/assets/portfolioImages/interactiveGraphics/pic (3).png"
+								data-src="/portfolioImages/interactiveGraphics/pic (3).png"
 								data-caption="Semesterproject: 2nd semester (2021) <a class='link link-primary' href='https://enisbudancamanak.github.io/datengrafik_dashboard/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/interactiveGraphics/pic (3).png" hidden />
+								<img src="/portfolioImages/interactiveGraphics/pic (3).png" hidden />
 							</a>
 						</div>
 					</div>
@@ -124,35 +118,32 @@
 							<a
 								class="tile-link"
 								data-fancybox="drinkhub"
-								data-src="src/assets/portfolioImages/DrinkHUB/pic (1).png"
+								data-src="/portfolioImages/DrinkHUB/pic (1).png"
 								href=""
 								data-caption="Semesterproject: 2nd semester (2021)"
 							>
-								<img
-									src="src/assets/portfolioImages/DrinkHUB/pic (1).png"
-									class="tile-img tile-img4"
-								/>
+								<img src="/portfolioImages/DrinkHUB/pic (1).png" class="tile-img tile-img4" />
 							</a>
 							<a
 								data-fancybox="drinkhub"
-								data-src="src/assets/portfolioImages/DrinkHUB/pic (2).png"
+								data-src="/portfolioImages/DrinkHUB/pic (2).png"
 								data-caption="Semesterproject: 2nd semester (2021)"
 							>
-								<img src="src/assets/portfolioImages/DrinkHUB/pic (2).png" hidden />
+								<img src="/portfolioImages/DrinkHUB/pic (2).png" hidden />
 							</a>
 							<a
 								data-fancybox="drinkhub"
-								data-src="src/assets/portfolioImages/DrinkHUB/pic (3).png"
+								data-src="/portfolioImages/DrinkHUB/pic (3).png"
 								data-caption="Semesterproject: 2nd semester (2021)"
 							>
-								<img src="src/assets/portfolioImages/DrinkHUB/pic (3).png" hidden />
+								<img src="/portfolioImages/DrinkHUB/pic (3).png" hidden />
 							</a>
 							<a
 								data-fancybox="drinkhub"
-								data-src="src/assets/portfolioImages/DrinkHUB/pic (4).png"
+								data-src="/portfolioImages/DrinkHUB/pic (4).png"
 								data-caption="Semesterproject: 2nd semester (2021)"
 							>
-								<img src="src/assets/portfolioImages/DrinkHUB/pic (4).png" hidden />
+								<img src="/portfolioImages/DrinkHUB/pic (4).png" hidden />
 							</a>
 						</div>
 					</div>
@@ -162,21 +153,18 @@
 							<a
 								class="tile-link"
 								data-fancybox="sinofsloth"
-								data-src="src/assets/portfolioImages/sinOfSloth/pic1.png"
+								data-src="/portfolioImages/sinOfSloth/pic1.png"
 								href=""
 								data-caption="Semesterproject: 1st semester (2020/2021) <a class='link link-primary' href='https://enisbudancamanak.github.io/SinOfSlothWebsite/' target='_blank'>to website</a>."
 							>
-								<img
-									src="src/assets/portfolioImages/sinOfSloth/pic1.png"
-									class="tile-img tile-img3"
-								/>
+								<img src="/portfolioImages/sinOfSloth/pic1.png" class="tile-img tile-img3" />
 							</a>
 							<a
 								data-fancybox="sinofsloth"
-								data-src="src/assets/portfolioImages/sinOfSloth/pic2.png"
+								data-src="/portfolioImages/sinOfSloth/pic2.png"
 								data-caption="Semesterproject: 1st semester (2020/2021) <a class='link link-primary' href='https://enisbudancamanak.github.io/SinOfSlothWebsite/' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/sinOfSloth/pic2.png" hidden />
+								<img src="/portfolioImages/sinOfSloth/pic2.png" hidden />
 							</a>
 						</div>
 					</div>
@@ -186,35 +174,35 @@
 							<a
 								class="tile-link"
 								data-fancybox="clouthub"
-								data-src="src/assets/portfolioImages/cloutHUBDesktop/pic (1).png"
+								data-src="/portfolioImages/cloutHUBDesktop/pic (1).png"
 								href=""
 								data-caption="Project at school: Europaschule Schulzentrum SII Utbremen (2019)"
 							>
 								<img
-									src="src/assets/portfolioImages/cloutHUBDesktop/pic (1).png"
+									src="/portfolioImages/cloutHUBDesktop/pic (1).png"
 									class="tile-img tile-img4"
 								/>
 							</a>
 							<a
 								data-fancybox="clouthub"
-								data-src="src/assets/portfolioImages/cloutHUBDesktop/pic (2).png"
+								data-src="/portfolioImages/cloutHUBDesktop/pic (2).png"
 								data-caption="Project at school: Europaschule Schulzentrum SII Utbremen (2019)"
 							>
-								<img src="src/assets/portfolioImages/cloutHUBDesktop/pic (2).png" hidden />
+								<img src="/portfolioImages/cloutHUBDesktop/pic (2).png" hidden />
 							</a>
 							<a
 								data-fancybox="clouthub"
-								data-src="src/assets/portfolioImages/cloutHUBDesktop/pic (3).png"
+								data-src="/portfolioImages/cloutHUBDesktop/pic (3).png"
 								data-caption="Project at school: Europaschule Schulzentrum SII Utbremen (2019)"
 							>
-								<img src="src/assets/portfolioImages/cloutHUBDesktop/pic (3).png" hidden />
+								<img src="/portfolioImages/cloutHUBDesktop/pic (3).png" hidden />
 							</a>
 							<a
 								data-fancybox="clouthub"
-								data-src="src/assets/portfolioImages/cloutHUBDesktop/pic (4).png"
+								data-src="/portfolioImages/cloutHUBDesktop/pic (4).png"
 								data-caption="Project at school: Europaschule Schulzentrum SII Utbremen (2019)"
 							>
-								<img src="src/assets/portfolioImages/cloutHUBDesktop/pic (4).png" hidden />
+								<img src="/portfolioImages/cloutHUBDesktop/pic (4).png" hidden />
 							</a>
 						</div>
 					</div>
@@ -224,28 +212,25 @@
 							<a
 								class="tile-link"
 								data-fancybox="cloutweb"
-								data-src="src/assets/portfolioImages/cloutWEB/pic (1).png"
+								data-src="/portfolioImages/cloutWEB/pic (1).png"
 								href=""
 								data-caption="Project at school: Europaschule Schulzentrum SII Utbremen (2020)  <a class='link link-primary' href='https://www.cloutweb.tk/home' target='_blank'>to website</a>."
 							>
-								<img
-									src="src/assets/portfolioImages/cloutWEB/pic (1).png"
-									class="tile-img tile-img5"
-								/>
+								<img src="/portfolioImages/cloutWEB/pic (1).png" class="tile-img tile-img5" />
 							</a>
 							<a
 								data-fancybox="cloutweb"
-								data-src="src/assets/portfolioImages/cloutWEB/pic (2).png"
+								data-src="/portfolioImages/cloutWEB/pic (2).png"
 								data-caption="Project at school: Europaschule Schulzentrum SII Utbremen (2020)  <a class='link link-primary' href='https://www.cloutweb.tk/home' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/cloutWEB/pic (2).png" hidden />
+								<img src="/portfolioImages/cloutWEB/pic (2).png" hidden />
 							</a>
 							<a
 								data-fancybox="cloutweb"
-								data-src="src/assets/portfolioImages/cloutWEB/pic (3).png"
+								data-src="/portfolioImages/cloutWEB/pic (3).png"
 								data-caption="Project at school: Europaschule Schulzentrum SII Utbremen (2020)  <a class='link link-primary' href='https://www.cloutweb.tk/home' target='_blank'>to website</a>."
 							>
-								<img src="src/assets/portfolioImages/cloutWEB/pic (3).png" hidden />
+								<img src="/portfolioImages/cloutWEB/pic (3).png" hidden />
 							</a>
 						</div>
 					</div>
