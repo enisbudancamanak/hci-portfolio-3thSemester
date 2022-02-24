@@ -9,18 +9,24 @@
 			el.classList.remove('active');
 		});
 
-		document.querySelector('#' + element.target.id).classList.add('active');
+		if (element) document.querySelector('#' + element.target.id).classList.add('active');
+		else document.querySelector('#' + getCurrentElement()).classList.add('active');
 	}
 
 	function getCurrentElement() {
-		console.log(window.location.href.replace);
-		// TODO: GET CURRENT PATH AND SET MENUPOINT
-		document.querySelector('#' + window.location.href);
+		console.log(window.location.pathname);
+
+		let pathname = window.location.pathname;
+		if (pathname == '/') return 'index';
+		else if (pathname == '/about') return 'about';
+		else if (pathname == '/skills') return 'skills';
+		else if (pathname == '/works') return 'works';
+		else if (pathname == '/contact') return 'contact';
+		else if (pathname == '/arthlete') return 'works';
 	}
 
 	onMount(async () => {
 		elems = document.querySelectorAll('.menuPoint a');
-
 		setActiveMenu();
 
 		// const pages = ['index', 'about', 'skills', 'works', 'contact'];

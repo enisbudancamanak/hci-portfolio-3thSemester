@@ -13,7 +13,7 @@
 		const myCarouseShowcase = new Carousel(document.querySelector('.carouselShowcase'), {
 			// Options
 		});
-		setTimeout(() => initPlayer(), 10);
+		setTimeout(() => initPlayer(), 100);
 	});
 
 	function initPlayer() {

@@ -27,9 +27,13 @@
 	});
 </script>
 
+<svelte:head>
+	<!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
+</svelte:head>
+
 <PageTransitions>
 	<main>
-		<div class="flex w-screen h-screen items-center px-80 z-10 absolute">
+		<div class="flex w-screen h-screen items-center px-80 z-10 absolute overflow-y-hidden">
 			<div class="hero min-h-screen">
 				<div class="hero-content">
 					<div>
