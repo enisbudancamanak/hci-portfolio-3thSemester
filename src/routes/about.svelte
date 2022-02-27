@@ -23,7 +23,7 @@
 							Bremen, Germany. I love programming of any kind and have been doing it for a good 4
 							years of my 20 years. In these 4 years I have worked on many own but also in agency
 							and student projects. Currently I'm a student at the University of Applied Sciences
-							Bremen and I'm doing my Bachelor in Media Informatics in the 2nd semester and working
+							Bremen and I'm doing my Bachelor in Media Informatics in the 3td semester and working
 							as a mini-jobber at WebMen GmbH.
 						</p>
 					</div>
