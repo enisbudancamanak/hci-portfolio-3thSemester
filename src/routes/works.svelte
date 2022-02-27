@@ -14,7 +14,7 @@
 <PageTransitions>
 	<main>
 		<div
-			class="flex w-screen h-screen items-center justify-center px-80 z-10 absolute overflow-y-hidden"
+			class="flex w-100 h-screen items-center justify-center pl-80 z-10 absolute overflow-y-hidden"
 		>
 			<div class="flex-col hero-content lg:flex-row gap-8">
 				<div class="grid image-grid">

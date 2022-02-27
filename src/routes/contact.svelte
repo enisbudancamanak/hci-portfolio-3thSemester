@@ -9,9 +9,9 @@
 
 <PageTransitions>
 	<main>
-		<div class="flex w-screen h-screen items-center px-80 z-10 absolute">
+		<div class="flex w-screen h-screen items-center pl-80 z-10 absolute">
 			<div class="hero min-h-screen">
-				<div class="flex-col hero-content lg:flex-row-reverse">
+				<div class="flex-col hero-content lg:flex-row-reverse !justify-end">
 					<div class="card flex-shrink-0 shadow-2xl bg-gray-600 bg-opacity-30">
 						<div class="contactForm">
 							<div style="display: flex; gap: 0.5em; justify-content: center;">
@@ -38,7 +38,7 @@
 
 <style>
 	.contactForm {
-		width: 35em;
+		width: 30em;
 		display: flex;
 		flex-direction: column;
 		gap: 1em;

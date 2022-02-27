@@ -1,0 +1,15 @@
+Hochschule Bremen - IS Medieninformatik, Semester 3 Portfolio
+von Enis Budancamanak (5157503)
+
+Webseite zum online Portfolio: https://portfolionew.enisbudancamanak.works/
+
+
+---VORWARNUNG---
+Um das flüssigste Erlebnis haben zu können (aufgrund von THREE.js), empfehle ich den Chrome Browser zu benutzen 
+und unter den Browser Einstellungen: Die Option für die "Hardwarebeschleunigung" zu aktivieren.
+
+
+Bei Problemen oder Fragen, können Sie mich gerne über E-Mail erreichen: ebudancamanak@stud.hs-bremen.de
+
+Viel Spaß beim Herumstöbern des neu angefertigten Portfolios
+wünscht Enis Budancamanak c:

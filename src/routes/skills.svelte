@@ -2,26 +2,26 @@
 	import { onMount } from 'svelte';
 	import PageTransitions from '../components/PageTransitions.svelte';
 
-	let SkillsGlobe;
+	let skillsGlobe = null;
 	onMount(async () => {
-		SkillsGlobe = (await import('../components/SkillsGlobe.svelte')).default;
+		skillsGlobe = (await import('../components/SkillsGlobe.svelte')).default;
 	});
 </script>
 
 <PageTransitions>
 	<main>
-		<div class="flex w-screen h-screen items-center px-80 z-10 absolute">
+		<div class="flex w-screen h-screen items-center pl-80 z-10 absolute">
 			<h1
 				id="mouseholdInfo"
 				style="font-family: Poppins;"
 				class="absolute right-0 top-0 pt-8 pr-8 text-2xl"
 			>
-				HOLD MOUSE AND MOVE
+				HOLD RIGHT-CLICK AND MOVE
 			</h1>
 			<div class="">
 				<div class="flex-col hero-content lg:flex-row-reverse">
 					<div class="absolute top-0 left-20 !outline-none !border-none !-z-30">
-						<svelte:component this={SkillsGlobe} />
+						<svelte:component this={skillsGlobe} />
 					</div>
 
 					<div>

@@ -117,7 +117,7 @@
 		height: 100%;
 	}
 	circle {
-		stroke: #fff;
+		stroke: white;
 		fill: transparent;
 	}
 

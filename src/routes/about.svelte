@@ -8,12 +8,12 @@
 
 <PageTransitions>
 	<main>
-		<div class="flex w-screen h-screen items-center px-80 z-10 absolute">
+		<div class="flex w-screen h-screen items-center pl-80 z-10 absolute">
 			<div class="hero min-h-screen">
-				<div class="flex-col hero-content justify-around w-full lg:flex-row-reverse ">
+				<div class="flex-col hero-content justify-end w-full lg:flex-row-reverse ">
 					<img
 						src="images/imageFromMyself.jpg"
-						class="max-w-sm rounded-full shadow-2xl"
+						class="max-w-xs rounded-full shadow-2xl"
 						alt="imageFromMyself"
 					/>
 					<div>

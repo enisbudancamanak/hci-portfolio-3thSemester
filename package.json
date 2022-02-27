@@ -45,6 +45,7 @@
 		"simple-lightbox": "^2.1.0",
 		"simplelightbox": "^2.10.2",
 		"svelte-video-player": "^1.2.5",
+		"sweetalert2": "^11.4.4",
 		"swiper": "^8.0.6",
 		"vivus": "^0.4.6"
 	}
